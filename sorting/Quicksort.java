@@ -1,3 +1,5 @@
+package sorting;
+
 // TIME: O(nlogn)
 // SPACE: O(logn)
 // SUCCESS on LeetCode
