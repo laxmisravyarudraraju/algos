@@ -1,4 +1,7 @@
-package amazon;
+// Approach: 1. Reverse original String.
+//           2. LCS of original and reverse
+
+package algorithms;
 
 class LongestCommonSubsequence {
     private String x;
@@ -52,7 +55,7 @@ class LongestCommonSubsequence {
 class LongestPalindrome {
     private String x;
     
-    longestPalindrome(String x) {
+    LongestPalindrome(String x) {
         this.x = x;
     }
 

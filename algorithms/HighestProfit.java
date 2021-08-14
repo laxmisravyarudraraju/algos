@@ -1,6 +1,6 @@
 // Approach: Greedy
 
-package amazon;
+package algorithms;
 
 class HighestProfit {
     private int suppliers;

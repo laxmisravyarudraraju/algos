@@ -1,4 +1,6 @@
-package amazon;
+// Approach: Kruskal's Minimum Spanning Tree
+
+package algorithms;
 import java.util.Arrays;
 
 class ConnectNodesMin {

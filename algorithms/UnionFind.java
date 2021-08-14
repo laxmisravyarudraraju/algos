@@ -1,4 +1,4 @@
-package amazon;
+package algorithms;
 class UnionFind {
     private int nodes;
     private int[] sizesOfCc;
